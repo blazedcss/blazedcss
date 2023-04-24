@@ -81,6 +81,6 @@ jobs:
 
       - uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ABENEVAUT_GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: dist
