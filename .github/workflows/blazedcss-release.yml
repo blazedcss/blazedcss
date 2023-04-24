@@ -79,7 +79,7 @@ jobs:
           npm run prod
           vendor/bin/laravel-one generate https://www.blazedcss.com
 
-      - uses: JamesIves/github-pages-deploy-action@releases/v3
+      - uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
