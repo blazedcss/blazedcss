@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/abenevaut/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/league/glide" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/nicmart/tree" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/abenevaut/laravel-one" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/temporary-directory" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/composer" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/laravel-sitemap" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/robots-txt" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/image-optimizer" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/crawler" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/browsershot" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/spatie/image" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/routing" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/abenevaut/vendor/illuminate/bus" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

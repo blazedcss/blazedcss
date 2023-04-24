@@ -1,0 +1,26 @@
+view: home
+language: en
+seo:
+  title: Antoine "BlaZedDcss" Benevaut
+  description: My portals
+  keywords: pokemongolive.fr, nbaallworld.fr
+  author: Antoine Benevaut
+  twitter: "@abenevaut"
+  og-image: https://www.blazedcss.com/seo/blazedcss-og.webp
+  url: https://www.blazedcss.com/
+
+portfolio:
+  title: Projects
+  projects:
+    - panacea:
+      capture: images/pokemongolive.webp
+      title: pokemongolive.fr
+      brief: Annuaire de joueurs Pokemon Go
+      url: https://pokemongolive.fr
+      date: 2022
+    - placedelaformation:
+      capture: images/nbaallworld.webp
+      title: nbaallworld.fr
+      brief: Annuaire de joueurs NBA All-World
+      url: https://nbaallworld.fr
+      date: 2023
