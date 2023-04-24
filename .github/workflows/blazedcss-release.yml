@@ -16,6 +16,8 @@ jobs:
     concurrency:
       group: blazedcss-release
       cancel-in-progress: false
+    permissions:
+      contents: write
     steps:
 
       - name: Checkout project
@@ -81,6 +83,5 @@ jobs:
 
       - uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
-          ACCESS_TOKEN: ${{ secrets.ABENEVAUT_GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: dist
