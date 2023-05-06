@@ -2,25 +2,31 @@ view: home
 language: en
 seo:
   title: Antoine "BlaZedDcss" Benevaut
-  description: My portals
-  keywords: pokemongolive.fr, nbaallworld.fr
+  description: My gaming portals
+  keywords: pokemongolive.fr, nbaallworld.fr, pikminbloom
   author: Antoine Benevaut
   twitter: "@abenevaut"
-  og-image: https://www.blazedcss.com/seo/blazedcss-og.webp
+  og-image: https://www.blazedcss.com/images/blazedcss-og.webp
   url: https://www.blazedcss.com/
 
 portfolio:
   title: Projects
   projects:
-    - panacea:
-      capture: images/pokemongolive.webp
-      title: pokemongolive.fr
-      brief: Annuaire de joueurs Pokemon Go
-      url: https://pokemongolive.fr
-      date: 2022
-    - placedelaformation:
-      capture: images/nbaallworld.webp
+    - pikminbloom:
+      capture: images/pikminbloom.png
+      title: pikminbloom.blazedcss.com
+      brief: Annuaire de joueurs Pikmin Bloom
+      url: https://pikminbloom.blazedcss.com
+      date: 2023
+    - nbaallworld:
+      capture: images/nbaallworld.png
       title: nbaallworld.fr
       brief: Annuaire de joueurs NBA All-World
       url: https://nbaallworld.fr
       date: 2023
+    - pokemongolive:
+      capture: images/pokemongolive.png
+      title: pokemongolive.fr
+      brief: Annuaire de joueurs Pokemon Go
+      url: https://pokemongolive.fr
+      date: 2022

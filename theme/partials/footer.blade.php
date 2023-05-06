@@ -59,7 +59,7 @@
             <div>
                 <a class="text-gray-500 text-md hover:underline hover:text-primary" href="https://www.abenevaut.dev/terms">Terms of Services</a>
                 <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="https://www.abenevaut.dev/privacy">Privacy Policy</a>
-                <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="profile.html">About Me</a>
+                <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="https://me.abenevaut.dev/profile.html">About Me</a>
             </div>
         </div>
     </div>
