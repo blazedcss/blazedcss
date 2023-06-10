@@ -57,8 +57,8 @@
         <div class="mt-16 text-center lg:justify-between lg:flex lg:text-left">
             <p class="mb-6 leading-normal text-gray-500 text-md lg:mb-0">Copyright &copy; {{ date('Y') }} <a class="hover:underline hover:text-primary" href="https://www.abenevaut.dev">Antoine Benevaut</a>. All rights reserved.</p>
             <div>
-                <a class="text-gray-500 text-md hover:underline hover:text-primary" href="https://www.abenevaut.dev/terms">Terms of Services</a>
-                <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="https://www.abenevaut.dev/privacy">Privacy Policy</a>
+                <a class="text-gray-500 text-md hover:underline hover:text-primary" href="terms.html">Terms of Services</a>
+                <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="privacy.html">Privacy Policy</a>
                 <a class="ml-4 text-gray-500 text-md hover:underline hover:text-primary" href="https://me.abenevaut.dev/profile.html">About Me</a>
             </div>
         </div>
